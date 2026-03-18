@@ -20,4 +20,3 @@ for port in range(1, 10000):
          # Eğer sonuç 0 ise yani bağlantı kurulmuşsa
         print(f"[+] {port} is open")
             # Açık olan port numarasını ekrana yazdırır
-  #176.89.80.176
